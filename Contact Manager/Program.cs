@@ -139,6 +139,7 @@ namespace ContactManager
         public static List<string> ViewAllContact(List<string> contactList)
         {
             return contactList;
+
         }
 
     }
